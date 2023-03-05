@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-nft-preview-using-flexbox-Mo8GETD5H4)
 - Live Site URL: [Github Pages URL](https://loganf50.github.io/nft-preview/)
 
 ## My process
